@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Variables
+filename="Star Wars Episode IV: A New Hope"
+
+# Play the Star Wars IV episode in the terminal
+echo "Playing $filename in the terminal..."
+telnet towel.blinkenlights.nl
