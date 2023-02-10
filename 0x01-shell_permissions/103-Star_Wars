@@ -1,5 +1,5 @@
 #!/bin/bash
-filename="Star Wars Episode IV: A New Hope"
+"Star Wars Episode IV: A New Hope"
 
 echo "Playing $filename in the terminal..."
 telnet towel.blinkenlights.nl
